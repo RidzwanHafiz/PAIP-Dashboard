@@ -100,7 +100,7 @@ value_col = numeric_cols[0]
 # =====================================
 with st.sidebar:
 
-    st.image("https://cdn-icons-png.flaticon.com/512/3135/3135715.png", width=80)
+    st.image("https://https://pahangmedia.my/wp-content/uploads/2022/04/22829896_1507274082687816_4818324861054920956_o-768x768.png", width=80)
 
     st.title("PAIP Dashboard")
 
