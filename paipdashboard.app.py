@@ -61,7 +61,7 @@ st.markdown(
 @st.cache_data
 def load_data():
 
-    file_path = "Sale By District Tariff 2.xlsx"
+    file_path = "Sale By District Tariff.xlsx"
 
     if not Path(file_path).exists():
         st.error("Excel file tidak dijumpai.")
