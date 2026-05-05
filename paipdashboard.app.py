@@ -102,7 +102,7 @@ with st.sidebar:
 
     st.image("https://cdn-icons-png.flaticon.com/512/3135/3135715.png", width=80)
 
-    st.title("LAKU Management")
+    st.title("PAIP Dashboard")
 
     st.markdown("---")
 
